@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<14.3)
 Architecture: iphoneos-arm
-Filename: ./debs/packagetest.deb
+Filename: ./debs/packagetest.ipa
 Size: 860
 MD5sum: 8C606F0C05217AA2A20949091FE516F0
 Description: This is a sample old package. Firmware should be lower than 7.0
