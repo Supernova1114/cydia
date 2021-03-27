@@ -26,17 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: Spotify_8.5.77_103a
+Package: packagetest
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<14.3)
 Architecture: iphoneos-arm
-Filename: ./debs/Spotify_8.5.77_103a.ipa
+Filename: ./debs/packagetest.deb
 Size: 860
-MD5sum: 999C1B4588F83199FB2525D793281AFF
+MD5sum: 8C606F0C05217AA2A20949091FE516F0
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: SpotifyApp
+Name: packagetest
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=Spotify_8.5.77_103a
+Depiction: https://supernova1114.github.io/cydia/depictions/?p=packagetest
 
