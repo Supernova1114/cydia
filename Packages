@@ -32,9 +32,9 @@ Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<14.3)
 Architecture: iphoneos-arm
-Filename: ./debs/packagetest.ipa
+Filename: ./debs/Spotify_1.0.0-1.ipa
 Size: 860
-MD5sum: 8C606F0C05217AA2A20949091FE516F0
+MD5sum: 999c1b4588f83199fb2525d793281aff
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: packagetest
 Author: Reposi3 <reposithree@gmail.com>
