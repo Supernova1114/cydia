@@ -11,18 +11,3 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: SpotifyPlus
 Author: Supernova1114
 Depiction: https://supernova1114.github.io/cydia/depictions/?p=com.supernova1114.spotifyplus
-
-Package: com.supernova1114.squadron
-Version: 1.0
-Section: Utilities
-Maintainer: Supernova1114
-Depends: firmware (<14.3)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supernova1114.squadron_1.0_iphoneos-arm.deb
-Size: 32082220
-MD5sum: 76563edea45267266308f47cb166d65b
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: SquadronClone
-Author: Supernova1114
-Depiction: https://supernova1114.github.io/cydia/depictions/?p=com.supernova1114.squadron
-
