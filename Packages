@@ -26,17 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: packagetest
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Package: com.supernova1114.spotifyplus
+Version: 1.0
+Section: Utilities
+Maintainer: Supernova1114
 Depends: firmware (<14.3)
 Architecture: iphoneos-arm
-Filename: ./debs/Spotify_1.0.0-1.ipa
+Filename: ./debs/com.supernova1114.spotifyplus_1.0_iphoneos-arm.deb
 Size: 860
-MD5sum: 999c1b4588f83199fb2525d793281aff
+MD5sum: 60317c133824f9fef89f086f7bff93d5
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: packagetest
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supernova1114.github.io/cydia/depictions/?p=packagetest
+Name: SpotifyPlus
+Author: Supernova1114
+Depiction: https://supernova1114.github.io/cydia/depictions/?p=com.supernova1114.spotifyplus
 
