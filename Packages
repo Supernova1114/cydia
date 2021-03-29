@@ -20,7 +20,7 @@ Depends: firmware (<14.3)
 Architecture: iphoneos-arm
 Filename: ./debs/com.supernova1114.squadron_1.0_iphoneos-arm.deb
 Size: 11952920
-MD5sum: a546cd4b7990f707b7a7387378c4d8c1
+MD5sum: 49cfd0b16cc3d7a743d2af522ef4c06b
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: MiniSquadronClone
 Author: Supernova1114
